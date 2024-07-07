@@ -1,4 +1,12 @@
-**Forge Version 0.6.9-Patch2 Changelog**
+**Version 0.6.9-Patch3**
+```
+Added:
+- Create Tab Fix
+- Create: Connected
+- Geo Font 2 (Resourcepack)
+- Computer Craft - Create (Resourcepack)
+```
+**Version 0.6.9-Patch2**
 ```
 Added:
 - Copycats+
@@ -12,7 +20,7 @@ Removed:
 Updated:
 - Everything...
 ```
-**Forge Version 0.6.9-Patch1 Changelog**
+**Version 0.6.9-Patch1**
 ```
 Added:
 - CC: Tweaked
