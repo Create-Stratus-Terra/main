@@ -1,3 +1,59 @@
+**Fabric Version 0.1 Changelog**
+```
+Added:
+- YUNG's API
+- YUNG's Better Desert Temples
+- YUNG's Better Dungeons
+- YUNG's Better End Island
+- YUNG's Better Jungle Temples
+- YUNG's Better Mineshafts
+- YUNG's Better Nether Fortresses
+- YUNG's Better Ocean Monuments
+- YUNG's Better Strongholds
+- YUNG's Better Witch Huts
+- YUNG's Bridges
+- YUNG's Extras
+- Create: Big Cannons
+- Create: Bells & Whistles
+- Create: Extended Cogwheels
+- Create: Dreams & Desires
+- Create: Diesel Generators
+- Create: Design n' Decor
+- Create: Cobblestone
+Updated:
+- Quilt Loader (0.24.0 -> 0.26.0)
+- QFAPI (7.5.0+0.91.0 -> 7.6.0+0.92.2)
+- Chat Patches (201.5.5 -> 201.5.6)
+- Dynamic FPS (3.4.2 -> 3.6.3)
+Considered, but not added bc they crash the game:
+- Create: Big Contraptions
+```
+**Fabric Version 0.9-Patch1 Changelog**
+This brings all Mods up to date as far as possible without updating Fabric API
+```
+Removed:
+- Bobby
+- Nvidium
+Added:
+- Distant Horizons
+Updated:
+- Iris         (1.6.17  -> 1.7.2)
+- Sodium       (xxxxxx  -> 0.5.11)
+- Indium       (xxxxxx  -> 1.0.34)
+- Areas        (5.9     -> 6.0)
+- Collective   (7.68    -> 7.80)
+- EMI          (XXXXXXX -> 1.1.10)
+- Jade         (11.9.2  -> 11.10.0)
+- Jade Addons  (5.2.5   -> 5.3.0)
+- Make Bubbles Pop (0.2.0 -> 0.3.0)
+- Crater Lib (2.0.0 -> 2.0.2)
+- Simple Discord RPC (3.3.1 -> 3.3.2)
+- Simple Voice Chat (2.5.17 -> 2.5.19)
+- ETF (6.1.1 -> 6.1.3)
+- EMF (2.0.2 -> 2.1.3)
+- Terralith (2.5.1 -> 2.5.4)
+- Xaero Plus (2.14 -> 2.21)
+```
 **Fabric Version 0.0.9 Changelog**
 ```
 Removed:
