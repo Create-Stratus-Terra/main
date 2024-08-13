@@ -1,4 +1,73 @@
-**Fabric Version 0.1 Changelog**
+**Fabric Version 0.1.2 Changelog**
+```
+Added:
+- Vein Mining Enchantment
+- Create: Pattern Schematics
+- Particle Rain
+Changed some Configs:
+- Default Keybinds
+- EMI Book Action
+- Distant Horizons
+```
+**Fabric Version 0.1.1 Changelog**
+```
+Added:
+- Create Deco
+- Create Interiors
+- Create Utilities
+- Bartering Station
+- Better Archeology
+- Bigshot
+- Blur+
+- CalcMod
+- Farmer's Delight Refabricated
+- Casualness Delight
+- Chat Heads
+- Chat Notify
+- Chef's Delight
+- Clumps
+- Controlling
+- Searchables (Lib for Controlling)
+- Create: Connected (Fabric - Unofficial Port)
+- Creeper Overhaul
+- Enderman Overhaul
+- Resourceful Config (Creeper & Enderman Overhaul req.)
+- Cull Leaves
+- SwingThrough
+- Deeper Oceans
+- MVS - Moog's Voyager Structures
+- MSS - Moog's Soaring Structures
+- Enchantment Descriptions
+- End Remastered
+- End's Delight
+- Bookshelf (Enchantment Descriptions Req.)
+- Euphonium
+- Explorify
+- Falling Leaves
+- Festive Delight
+- Friendly Fire
+- Immersive Armors
+- KubeJS Additions
+- Modern Fix
+- More Axolotl Variants MOd/Api
+- More Layered Blocks
+- Mouse Tweaks
+- Naturalist
+- Nature's Compass
+- Not Enough Animations
+- Ocean's Delight
+- Pick up Notifier
+- Ping Wheel
+- Polymorph
+- Spice of Fabric
+- Tidal Towns
+- Twigs
+- Visuality
+Removed:
+- Shaders
+- Resource Packs
+```
+**Fabric Version 0.1.0 Changelog**
 ```
 Added:
 - YUNG's API
