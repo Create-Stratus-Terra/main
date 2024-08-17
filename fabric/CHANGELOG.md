@@ -1,3 +1,12 @@
+**Fabric Version 0.1.3 Changelog**
+```
+Added:
+- Axiom
+- Better Nether
+- bclib (req. by better nether)
+Removed:
+- Incendium
+```
 **Fabric Version 0.1.2 Changelog**
 ```
 Added:
